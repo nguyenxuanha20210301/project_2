@@ -6,7 +6,7 @@
 #include<EEPROM.h>
 #include<MFRC522.h>
 
-// Define pins for RFID RC522
+// Define pins for RFID RC522 abc
 #define SS_PIN 9
 #define RST_PIN 8
 
